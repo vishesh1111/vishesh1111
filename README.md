@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Hi,%20I'm%20Vishesh%20Verma&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<p align="center">
+  <img src="./welcome.svg" width="100%" />
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Exploring+Real+World+Projects"/>
 
 <br><br>
 
@@ -52,35 +54,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,c,typescript,sql,react,next,nodejs,mongodb,tailwind,postman,vercel,git,github,"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,typescript,react,next,nodejs,mongodb,tailwind,postman,vercel,git,github,"/>
 
 </div>
 
 ---
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vishesh1111&show_icons=true&theme=github_dark&rank_icon=github"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1111&layout=compact&theme=github_dark"/>
-</p>
-
-</div>
-
-
----
-
-# 🌟 Open Source
-
-- GSSoC Contributor
-- Open Source Enthusiast
-- Exploring Real World Projects
-
----
-
-
 
 
 # 🌐 Connect With Me
@@ -102,16 +80,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishesh1111&theme=tokyonight"/>
-
-</div>
 
 ---
 
