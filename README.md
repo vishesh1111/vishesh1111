@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Future+Software+Engineer;GSoC+2027+Aspiring"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast"/>
 
 <br><br>
-
-![](https://komarev.com/ghpvc/?username=vishesh1111&color=0ea5e9&style=for-the-badge)
 
 </div>
 
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,js,react,next,nodejs,mongodb,tailwind,ollama,langchain,langGraph,Rag,git,github,"/>
 
 </div>
 
@@ -70,23 +68,12 @@ Here are some ideas to get you started:
 
 </div>
 
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh1111&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🧠 LeetCode Stats
 
 <div align="center">
 
-<img src="https://leetcode.com/u/vishesh53/?theme=dark&font=Nunito"/>
+<img src="https://leetcard.jacoblin.cool/vishesh53?theme=dark&font=Nunito"/>
 
 </div>
 
@@ -96,7 +83,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishesh1111&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vishesh1111&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
 
 </div>
 
@@ -116,15 +103,21 @@ Here are some ideas to get you started:
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/vishesh1111">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/vishesh-verma-016351202/?skipRedirect=true">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/vishesh-verma-016351202/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/vishesh53/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:vvishesh53@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
