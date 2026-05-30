@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,react,next,nodejs,mongodb,tailwind,ollama,langchain,langGraph,Rag,git,github,"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,typescript,sql,react,next,nodejs,mongodb,tailwind,postman,vercel,git,github,"/>
 
 </div>
 
@@ -62,9 +62,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishesh1111&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1111&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vishesh1111&show_icons=true&theme=github_dark&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishesh1111&layout=compact&theme=github_dark"/>
+</p>
 
 </div>
 
