@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vishesh1111/vishesh1111/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishesh1111&theme=tokyonight"/>
 
 </div>
 
