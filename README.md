@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./welcome.svg" width="100%" />
+</p>
 ## Hi there 👋
 
 <!--
@@ -16,9 +19,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<p align="center">
-  <img src="./welcome.svg" width="100%" />
-</p>
+
 
 <br>
 
