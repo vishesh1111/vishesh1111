@@ -30,17 +30,10 @@ Here are some ideas to get you started:
 
 <table align="center">
 <tr>
-<td>
-
-🎓 B.Tech CSE Student
-
-💻 Full Stack Developer
-
-🌱 Learning MERN Stack
-
-📍 New Delhi, India
-
-</td>
+<td>🎓 B.Tech CSE Student</td>
+<td>💻 Full Stack Developer</td>
+<td>🌱 Learning MERN Stack</td>
+<td>📍 New Delhi, India</td>
 </tr>
 </table>
 
