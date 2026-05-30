@@ -69,24 +69,6 @@ Here are some ideas to get you started:
 </div>
 
 
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/vishesh53?theme=dark&font=Nunito"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishesh1111&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-
-</div>
-
 ---
 
 # 🌟 Open Source
@@ -132,8 +114,3 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-
-### ⚡ Consistency Beats Talent
-
-</div>
