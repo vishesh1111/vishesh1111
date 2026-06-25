@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Exploring+Real+World+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Open+Source+Contributor;DSA+Enthusiast;Exploring+Real+World+Projects;Exploring+New+Domains"/>
 
 <br><br>
 
