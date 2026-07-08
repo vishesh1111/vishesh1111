@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <table align="center">
 <tr>
 <td>💻 Full Stack Developer</td>
-<td>🌱 Learning MERN Stack</td>
+<td>🌱 MERN Stack</td>
 <td>📍 New Delhi, India</td>
 </tr>
 </table>
